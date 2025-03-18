@@ -1,12 +1,9 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2025 Lucas Nguyen All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Lucas Nguyen
+// Created on: Mar 2025
 // This file contains the JS functions for index.html
 
-/**
- * Displays an alert with the message "Hello, World!"
- */
 function doMathClicked() {
   document.getElementById("add-area").innerHTML = 
     "<p>The area is " + (3 * 5) + "cm² </p>"
